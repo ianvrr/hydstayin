@@ -1,6 +1,6 @@
 # HydStayIn
 
-**Tech Stack**: Streamlit, Python, SQLite, Pandas, CSS
+**Tech Stack**: Streamlit, Python, SQLite, Pandas, CSS, HTML5
 
 **HydStayIn** is a modern web application that simplifies the process of finding and listing PGs and hostels in Hyderabad. Built using Streamlit, it delivers a seamless and intuitive interface for users to search, filter, and explore properties. Property owners can easily list their accommodations with detailed amenities, photos, and contact details.
 
